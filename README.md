@@ -1,7 +1,5 @@
 <div align="center">
-
 # Task Management System using PHP/MySQLi
-
 <img src="tms_3.png" />
 </div>
 
